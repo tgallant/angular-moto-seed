@@ -1,0 +1,9 @@
+<form class="login-form" ng-submit="vm.login(user)">
+	<div class="row">
+		<div class="columns small-12 medium-6 large-4 medium-centered">
+			<input type="text" placeholder="Username" ng-model="user.username" required autofocus />
+			<input type="password" placeholder="Password" ng-model="user.password" required />
+			<button type="submit" class="btn">Login</button>
+		</div>
+	</div>
+</form>
