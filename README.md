@@ -1,4 +1,6 @@
-# Angular Seed (based on [Todd Moto's style guide](https://github.com/toddmotto/angularjs-styleguide)
+# Angular Seed 
+
+Based on [Todd Motto's style guide](https://github.com/toddmotto/angularjs-styleguide)
 
 Hopefully Angular2 won't kill this :(
 
